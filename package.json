@@ -1,0 +1,15 @@
+{
+  "name": "doit-cli",
+  "version": "1.0.0",
+  "description": "A CLI for the doit app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "codingLogan",
+  "license": "ISC",
+  "dependencies": {
+    "doit": "file:../package"
+  },
+  "type": "module"
+}
